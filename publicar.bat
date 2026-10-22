@@ -14,7 +14,7 @@ echo.
 git rev-parse --is-inside-work-tree >nul 2>&1
 if errorlevel 1 (
   echo [ERRO] Esta pasta nao e um repositorio Git.
-  echo        Rode este arquivo dentro da pasta "wesleymeloPJ.com".
+  echo        Rode este arquivo dentro da pasta "wesleymelo.com".
   echo.
   pause
   exit /b 1
